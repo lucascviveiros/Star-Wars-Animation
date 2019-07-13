@@ -4,7 +4,6 @@
 - Timeline
 - Control Keyboards: A,W,S,D
 - Gun Shot: Right Click Mouse
-- Contributor: https://github.com/VictorGuedes/ 
 
 ![screenshot_1](https://user-images.githubusercontent.com/21102697/43542609-61d3797a-95c5-11e8-903d-5e7e9d9b7b64.png)
 
